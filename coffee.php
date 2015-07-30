@@ -8,7 +8,7 @@
 include("config.php");
 
 $sql = "SELECT * FROM coffee";
-$a = mysql_query($sql);
-echo $a;
+$ab = mysql_query($sql);
+echo $ab;
 
 ?>
